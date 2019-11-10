@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: FanchiniRudolf
-          GIST_ID: 9ea6b7e5195c1f7272d97673421324c4
+          GIST_ID: 61c1288c7b1158700b6b945e6302c678
